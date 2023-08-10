@@ -1,0 +1,721 @@
+#EXTM3U
+#EXTINF:0,1. ARD - ARD-TEST-1
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2100,601,602,2602,604
+#EXTINF:0,2. ARD - ARD-alpha
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1400,1401,1402,1403,1406,1405,1404
+#EXTINF:0,3. ARD - ARD-alpha HD
+rtsp://192.168.1.51:554/?freq=826&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5420,5421,5422,5423,5426,5425,5424
+#EXTINF:0,4. ARD - BR Fernsehen Nord
+rtsp://192.168.1.51:554/?freq=386&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,500,501,502,503,506,205,504
+#EXTINF:0,5. ARD - BR Fernsehen Nord HD
+rtsp://192.168.1.51:554/?freq=137&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5210,5201,5202,5203,5206,5205,5204
+#EXTINF:0,6. ARD - BR Fernsehen Süd
+rtsp://192.168.1.51:554/?freq=386&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,200,201,202,203,206,205,204
+#EXTINF:0,7. ARD - BR Fernsehen Süd HD
+rtsp://192.168.1.51:554/?freq=137&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5200,5201,5202,5203,5206,5205,5204
+#EXTINF:0,8. ARD - Das Erste
+rtsp://192.168.1.51:554/?freq=386&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,101,102,103,106,105,104
+#EXTINF:0,9. ARD - Das Erste HD
+rtsp://192.168.1.51:554/?freq=370&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5100,5101,5102,5103,5106,5105,5104
+#EXTINF:0,10. ARD - MDR S-Anhalt
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2900,2901,2902,2903,2905,2904
+#EXTINF:0,11. ARD - MDR S-Anhalt HD
+rtsp://192.168.1.51:554/?freq=818&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5330,5331,5332,5333,5336,5335,5334
+#EXTINF:0,12. ARD - MDR Sachsen
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2800,2901,2902,2903,2905,2904
+#EXTINF:0,13. ARD - MDR Sachsen HD
+rtsp://192.168.1.51:554/?freq=818&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5320,5331,5332,5333,5336,5335,5334
+#EXTINF:0,14. ARD - MDR Thüringen
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3000,2901,2902,2903,2905,2904
+#EXTINF:0,15. ARD - MDR Thüringen HD
+rtsp://192.168.1.51:554/?freq=818&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5340,5331,5332,5333,5336,5335,5334
+#EXTINF:0,16. ARD - NDR FS HH
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2500,2601,2602,2603,2604
+#EXTINF:0,17. ARD - NDR FS HH HD
+rtsp://192.168.1.51:554/?freq=137&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5240,5221,5222,5223,5226,5245,5224
+#EXTINF:0,18. ARD - NDR FS MV
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2400,2601,2602,2603,2604
+#EXTINF:0,19. ARD - NDR FS MV HD
+rtsp://192.168.1.51:554/?freq=137&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5230,5221,5222,5223,5226,5235,5224
+#EXTINF:0,20. ARD - NDR FS NDS
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2600,2601,2602,2603,2604
+#EXTINF:0,21. ARD - NDR FS NDS HD
+rtsp://192.168.1.51:554/?freq=137&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5220,5221,5222,5223,5226,5225,5224
+#EXTINF:0,22. ARD - NDR FS SH
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2700,2601,2602,2603,2604
+#EXTINF:0,23. ARD - NDR FS SH HD
+rtsp://192.168.1.51:554/?freq=137&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5250,5221,5222,5223,5226,5255,5224
+#EXTINF:0,24. ARD - ONE
+rtsp://192.168.1.51:554/?freq=113&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,200,201,202,203,206,204
+#EXTINF:0,25. ARD - ONE HD
+rtsp://192.168.1.51:554/?freq=826&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5410,5411,5412,5413,5416,5415,5414
+#EXTINF:0,26. ARD - Radio Bremen HD
+rtsp://192.168.1.51:554/?freq=826&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5440,5441,5442,5443,5445,5444
+#EXTINF:0,27. ARD - Radio Bremen TV
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1200,1201,1202,1204
+#EXTINF:0,28. ARD - SR Fernsehen
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1300,1301,1302,1303,1304
+#EXTINF:0,29. ARD - SR Fernsehen HD
+rtsp://192.168.1.51:554/?freq=826&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5430,5431,5432,5433,5436,5435,5434
+#EXTINF:0,30. ARD - SWR BW HD
+rtsp://192.168.1.51:554/?freq=370&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5120,5121,5122,5123,5126,5125,5124
+#EXTINF:0,31. ARD - SWR Fernsehen BW
+rtsp://192.168.1.51:554/?freq=386&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,800,801,802,803,806,804
+#EXTINF:0,32. ARD - SWR Fernsehen RP
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3100,3101,3102,3103,3106,3104
+#EXTINF:0,33. ARD - SWR RP HD
+rtsp://192.168.1.51:554/?freq=370&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5130,5121,5122,5123,5126,5135,5134
+#EXTINF:0,34. ARD - Test-R
+rtsp://192.168.1.51:554/?freq=113&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,600,501,502
+#EXTINF:0,35. ARD - WDR Aachen
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3958,3401,3402,3403,3405,3804
+#EXTINF:0,36. ARD - WDR Bielefeld
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,300,501,502,505,504
+#EXTINF:0,37. ARD - WDR Bonn
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3960,3401,3402,3403,3405,3804
+#EXTINF:0,38. ARD - WDR Dortmund
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,400,501,502,505,504
+#EXTINF:0,39. ARD - WDR Duisburg
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3961,3401,3402,3405,3804
+#EXTINF:0,40. ARD - WDR Düsseldorf
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,500,501,502,505,504
+#EXTINF:0,41. ARD - WDR Essen
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,600,501,502,505,504
+#EXTINF:0,42. ARD - WDR HD Aachen
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,110,101,102,103,106,105,104
+#EXTINF:0,43. ARD - WDR HD Bielefeld
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,120,101,102,103,106,105,104
+#EXTINF:0,44. ARD - WDR HD Bonn
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,130,101,102,103,106,105,104
+#EXTINF:0,45. ARD - WDR HD Dortmund
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,140,101,102,103,106,105,104
+#EXTINF:0,46. ARD - WDR HD Duisburg
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,150,101,102,103,106,105,104
+#EXTINF:0,47. ARD - WDR HD Düsseldorf
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,160,101,102,103,106,105,104
+#EXTINF:0,48. ARD - WDR HD Essen
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,170,101,102,103,106,105,104
+#EXTINF:0,49. ARD - WDR HD Köln
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,101,102,103,106,105,104
+#EXTINF:0,50. ARD - WDR HD Münster
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,180,101,102,103,106,105,104
+#EXTINF:0,51. ARD - WDR HD Siegen
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,190,101,102,103,106,105,104
+#EXTINF:0,52. ARD - WDR HD Wuppertal
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,200,101,102,103,106,105,104
+#EXTINF:0,53. ARD - WDR Köln
+rtsp://192.168.1.51:554/?freq=386&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,600,601,602,603,605,604
+#EXTINF:0,54. ARD - WDR Mediathek (Internet)
+rtsp://192.168.1.51:554/?freq=514&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,330,331,332,333
+#EXTINF:0,55. ARD - WDR Münster
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,700,501,502,505,504
+#EXTINF:0,56. ARD - WDR Siegen
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,800,501,502,505,504
+#EXTINF:0,57. ARD - WDR Wuppertal
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3959,3401,3402,3403,3405,3804
+#EXTINF:0,58. ARD - alt_WDR HD Aachen
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3968,5601,5602,5606,5605,5604
+#EXTINF:0,59. ARD - alt_WDR HD Bielefeld
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5510,5501,5502,5506,5505,5504
+#EXTINF:0,60. ARD - alt_WDR HD Bonn
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3970,5601,5602,5606,5605,5604
+#EXTINF:0,61. ARD - alt_WDR HD Dortmund
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5520,5501,5502,5506,5505,5504
+#EXTINF:0,62. ARD - alt_WDR HD Duisburg
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3971,5601,5602,5606,5605,5604
+#EXTINF:0,63. ARD - alt_WDR HD Düsseldorf
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5530,5501,5502,5506,5505,5504
+#EXTINF:0,64. ARD - alt_WDR HD Essen
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5540,5501,5502,5506,5505,5504
+#EXTINF:0,65. ARD - alt_WDR HD Köln
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5500,5501,5502,5506,5505,5504
+#EXTINF:0,66. ARD - alt_WDR HD Münster
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5550,5501,5502,5506,5505,5504
+#EXTINF:0,67. ARD - alt_WDR HD Siegen
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5560,5501,5502,5506,5505,5504
+#EXTINF:0,68. ARD - alt_WDR HD Wuppertal
+rtsp://192.168.1.51:554/?freq=746&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3969,5601,5602,5606,5605,5604
+#EXTINF:0,69. ARD - arte
+rtsp://192.168.1.51:554/?freq=113&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,400,401,402,403,407,408,404
+#EXTINF:0,70. ARD - arte HD
+rtsp://192.168.1.51:554/?freq=370&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5110,5111,5112,5113,5116,5117,5119,5114
+#EXTINF:0,71. ARD - hr-fernsehen
+rtsp://192.168.1.51:554/?freq=386&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,300,301,302,303,304
+#EXTINF:0,72. ARD - hr-fernsehen HD
+rtsp://192.168.1.51:554/?freq=818&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5350,5351,5352,5353,5356,5355,5354
+#EXTINF:0,73. ARD - phoenix
+rtsp://192.168.1.51:554/?freq=113&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,500,501,502,503,504
+#EXTINF:0,74. ARD - phoenix HD
+rtsp://192.168.1.51:554/?freq=137&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5260,5261,5262,5263,5264
+#EXTINF:0,75. ARD - rbb Berlin
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,600,601,602,603,604
+#EXTINF:0,76. ARD - rbb Berlin HD
+rtsp://192.168.1.51:554/?freq=818&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5310,5311,5312,5313,5316,5315,5314
+#EXTINF:0,77. ARD - rbb Brandenburg
+rtsp://192.168.1.51:554/?freq=402&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,500,601,602,603,604
+#EXTINF:0,78. ARD - rbb Brandenburg HD
+rtsp://192.168.1.51:554/?freq=818&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5300,5311,5312,5313,5316,5315,5314
+#EXTINF:0,79. ARD - tagesschau24
+rtsp://192.168.1.51:554/?freq=113&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,101,102,104
+#EXTINF:0,80. ARD - tagesschau24 HD
+rtsp://192.168.1.51:554/?freq=826&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5400,5401,5402,5403,5406,5404
+#EXTINF:0,101. HDTV - 1-2-3.tv HD
+rtsp://192.168.1.51:554/?freq=754&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7919,767,771,38
+#EXTINF:0,102. HDTV - ANIXE HD
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,97,255,259
+#EXTINF:0,103. HDTV - Eurosport 1 HD (WT)
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,98,101,771
+#EXTINF:0,104. HDTV - HSE24 Extra HD
+rtsp://192.168.1.51:554/?freq=362&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7917,511,515,33
+#EXTINF:0,105. HDTV - HSE24 HD
+rtsp://192.168.1.51:554/?freq=362&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3534,1279,1283,36
+#EXTINF:0,106. HDTV - Hamburg 1  HD
+rtsp://192.168.1.51:554/?freq=362&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,8020,8000,8001,8040
+#EXTINF:0,107. HDTV - Insight.TV HD
+rtsp://192.168.1.51:554/?freq=450&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,96,255,256,257,258,259,260,265
+#EXTINF:0,108. HDTV - NHK World-Japan HD
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7525,2315,2316,2317
+#EXTINF:0,109. HDTV - QVC HD
+rtsp://192.168.1.51:554/?freq=442&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3535,1023,1027,35
+#EXTINF:0,110. HDTV - QVC Style HD
+rtsp://192.168.1.51:554/?freq=442&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1913,1535,1539,37
+#EXTINF:0,111. HDTV - QVC ZWEI HD
+rtsp://192.168.1.51:554/?freq=442&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7918,1279,1283,36
+#EXTINF:0,112. HDTV - SRF info HD
+rtsp://192.168.1.51:554/?freq=810&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,822,522,523,524,525,527
+#EXTINF:0,113. HDTV - ServusTV HD Deutschland
+rtsp://192.168.1.51:554/?freq=714&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,110,4920,4921,4922,4924,4925
+#EXTINF:0,114. HDTV - Stingray DJAZZ
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,593,594,592
+#EXTINF:0,115. HDTV - TIDE.tv HD
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,276,532,102,104
+#EXTINF:0,116. HDTV - h1 HD
+rtsp://192.168.1.51:554/?freq=450&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,101,102,104
+#EXTINF:0,117. HDTV - noa4 Hamburg HD
+rtsp://192.168.1.51:554/?freq=794&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,273,529,785,1044
+#EXTINF:0,118. HDTV - noa4 Norderstedt HD
+rtsp://192.168.1.51:554/?freq=770&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,273,529,785,1044
+#EXTINF:0,119. HDTV - pearl.tv HD Shop
+rtsp://192.168.1.51:554/?freq=434&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,1279,1280
+#EXTINF:0,120. HDTV - sonnenklar.TV HD
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,96,255,259,32
+#EXTINF:0,201. ProSiebenSat.1 - N24 (jetzt WELT Nachrichtenfernsehen)
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,67,68,69
+#EXTINF:0,202. ProSiebenSat.1 - Pro7 MAXX
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,101,59,60,58
+#EXTINF:0,203. ProSiebenSat.1 - ProSieben
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,97,511,512,515,33
+#EXTINF:0,204. ProSiebenSat.1 - SAT.1
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,96,255,256,259,32
+#EXTINF:0,205. ProSiebenSat.1 - SAT.1 Gold
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,62,56,36
+#EXTINF:0,206. ProSiebenSat.1 - SAT.1 HH/SH
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,105,2047,2048,2051,41
+#EXTINF:0,207. ProSiebenSat.1 - SAT.1 NS/Bremen
+rtsp://192.168.1.51:554/?freq=714&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,106,2303,50,51,41
+#EXTINF:0,208. ProSiebenSat.1 - SIXX
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5118,767,768,52
+#EXTINF:0,209. ProSiebenSat.1 - WELT
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,99,1023,1024,35
+#EXTINF:0,210. ProSiebenSat.1 - kabel eins
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,98,54,66,34
+#EXTINF:0,211. ProSiebenSat.1 - kabel eins Doku
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,105,2559,2560,41
+#EXTINF:0,301. RTL - NITRO
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,53,173,146,86,84
+#EXTINF:0,302. RTL - RTL HB NDS
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,55,163,104,110,105
+#EXTINF:0,303. RTL - RTL HH SH
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,48,56,57,264,51,49
+#EXTINF:0,304. RTL - RTL Television
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,44,163,104,106,110,105
+#EXTINF:0,305. RTL - RTLZWEI 
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,46,166,128,75,68
+#EXTINF:0,306. RTL - RTLplus
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,41,168,137,70
+#EXTINF:0,307. RTL - SUPER RTL
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,45,165,120,66,65
+#EXTINF:0,308. RTL - TOGGO plus
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,58,301,303
+#EXTINF:0,309. RTL - VOX
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,47,167,136,74,71
+#EXTINF:0,310. RTL - n-tv
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,32,169,73,77,80
+#EXTINF:0,401. Radio - ARD BR - B5 aktuell
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,140,141
+#EXTINF:0,402. Radio - ARD BR - B5 plus
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,180,181
+#EXTINF:0,403. Radio - ARD BR - BAYERN 3
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,120,121
+#EXTINF:0,404. Radio - ARD BR - BR Heimat
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,170,171
+#EXTINF:0,405. Radio - ARD BR - BR Schlager
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,150,151
+#EXTINF:0,406. Radio - ARD BR - BR-KLASSIK
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,130,131,132
+#EXTINF:0,407. Radio - ARD BR - Bayern 1
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,101
+#EXTINF:0,408. Radio - ARD BR - Bayern 2
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,110,111
+#EXTINF:0,409. Radio - ARD BR - PULS
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,160,161
+#EXTINF:0,501. Radio - ARD HR - YOU FM
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,450,451
+#EXTINF:0,502. Radio - ARD HR - hr-iNFO
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,460,461
+#EXTINF:0,503. Radio - ARD HR - hr1
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,400,401
+#EXTINF:0,504. Radio - ARD HR - hr2
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,410,411,412
+#EXTINF:0,505. Radio - ARD HR - hr3
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,420,421
+#EXTINF:0,506. Radio - ARD HR - hr4
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,430,431
+#EXTINF:0,601. Radio - ARD MDR - MDR AKTUELL
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,560,561
+#EXTINF:0,602. Radio - ARD MDR - MDR JUMP
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,540,541
+#EXTINF:0,603. Radio - ARD MDR - MDR KLASSIK
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,570,571
+#EXTINF:0,604. Radio - ARD MDR - MDR KULTUR
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,530,531,532
+#EXTINF:0,605. Radio - ARD MDR - MDR S-ANHALT MD
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,510,511
+#EXTINF:0,606. Radio - ARD MDR - MDR SACHSEN DD
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,500,501
+#EXTINF:0,607. Radio - ARD MDR - MDR SPUTNIK
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,550,551
+#EXTINF:0,608. Radio - ARD MDR - MDR THÜR Mitte-W
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,520,521
+#EXTINF:0,701. Radio - ARD NDR - N-JOY
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,630,631
+#EXTINF:0,702. Radio - ARD NDR - NDR 1 NDS Nordost
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,670,671
+#EXTINF:0,703. Radio - ARD NDR - NDR 1 Nieders. HAN
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,670,671
+#EXTINF:0,704. Radio - ARD NDR - NDR 1 Radio MV SN
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,660,661
+#EXTINF:0,705. Radio - ARD NDR - NDR 1 Welle Nord NOR
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,650,651
+#EXTINF:0,706. Radio - ARD NDR - NDR 2 (Hamburg)
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,50,53
+#EXTINF:0,707. Radio - ARD NDR - NDR 2 NDS
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,600,601
+#EXTINF:0,708. Radio - ARD NDR - NDR 90,3
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,640,641
+#EXTINF:0,709. Radio - ARD NDR - NDR Blue
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,690,691
+#EXTINF:0,710. Radio - ARD NDR - NDR Info (Hamburg) 
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,620,621
+#EXTINF:0,711. Radio - ARD NDR - NDR Info NDS
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,620,621
+#EXTINF:0,712. Radio - ARD NDR - NDR Info Spez.
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,680,681
+#EXTINF:0,713. Radio - ARD NDR - NDR Kultur
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,610,611
+#EXTINF:0,714. Radio - ARD NDR - NDR Plus
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,695,696
+#EXTINF:0,715. Radio - ARD NDR - NDR1 Welle Nord KI
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,650,651
+#EXTINF:0,801. Radio - ARD RB - Bremen Eins
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,700,701
+#EXTINF:0,802. Radio - ARD RB - Bremen Vier
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,720,721
+#EXTINF:0,803. Radio - ARD RB - Bremen Zwei
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,710,711
+#EXTINF:0,901. Radio - ARD SR - SR 1 Europawelle
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,900,901
+#EXTINF:0,902. Radio - ARD SR - SR 2 KulturRadio
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,910,911
+#EXTINF:0,903. Radio - ARD SR - SR 3 Saarlandwelle
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,920,921
+#EXTINF:0,1001. Radio - ARD SWR - DASDING
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1060,1061
+#EXTINF:0,1002. Radio - ARD SWR - SWR Aktuell
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1070,1071
+#EXTINF:0,1003. Radio - ARD SWR - SWR1 BW
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1000,1001
+#EXTINF:0,1004. Radio - ARD SWR - SWR1 RP
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1010,1011
+#EXTINF:0,1005. Radio - ARD SWR - SWR2
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1020,1021,1022
+#EXTINF:0,1006. Radio - ARD SWR - SWR3
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1030,1031
+#EXTINF:0,1007. Radio - ARD SWR - SWR4 BW
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1040,1041
+#EXTINF:0,1008. Radio - ARD SWR - SWR4 RP
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1050,1051
+#EXTINF:0,1101. Radio - ARD WDR - 1LIVE
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1100,1101
+#EXTINF:0,1102. Radio - ARD WDR - 1LIVE diGGi
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1160,1161
+#EXTINF:0,1103. Radio - ARD WDR - COSMO
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1150,1151
+#EXTINF:0,1104. Radio - ARD WDR - Die Maus
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1170,1171
+#EXTINF:0,1105. Radio - ARD WDR - WDR 2 Rheinland
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1110,1111
+#EXTINF:0,1106. Radio - ARD WDR - WDR 3
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1120,1121,1122
+#EXTINF:0,1107. Radio - ARD WDR - WDR 4
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1130,1131
+#EXTINF:0,1108. Radio - ARD WDR - WDR 5
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1140,1141
+#EXTINF:0,1109. Radio - ARD WDR - WDR Event
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1180,1181
+#EXTINF:0,1201. Radio - ARD rbb - Antenne Brandenburg
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,820,821
+#EXTINF:0,1202. Radio - ARD rbb - Fritz
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,850,851
+#EXTINF:0,1203. Radio - ARD rbb - Inforadio
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,800,801
+#EXTINF:0,1204. Radio - ARD rbb - radioeins
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,840,841
+#EXTINF:0,1205. Radio - ARD rbb - rbb 88.8
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,830,831
+#EXTINF:0,1206. Radio - ARD rbb - rbbKultur
+rtsp://192.168.1.51:554/?freq=642&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,810,811
+#EXTINF:0,1301. Radio - ZDFvision - DRadio DokDeb
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,500,510
+#EXTINF:0,1302. Radio - ZDFvision - Dlf
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,800,810
+#EXTINF:0,1303. Radio - ZDFvision - Dlf Kultur
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,700,710,711
+#EXTINF:0,1304. Radio - ZDFvision - Dlf Nova
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,411,410
+#EXTINF:0,1401. Radio - div. Deutsche - 89.0 RTL
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,500,501
+#EXTINF:0,1402. Radio - div. Deutsche - 917xfm Hamburgs Musiksender
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,200,201
+#EXTINF:0,1403. Radio - div. Deutsche - Antenne Bayern
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,115,352
+#EXTINF:0,1404. Radio - div. Deutsche - Antenne MV
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,231,131
+#EXTINF:0,1405. Radio - div. Deutsche - Antenne Niedersachsen HH
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,52,59
+#EXTINF:0,1406. Radio - div. Deutsche - Antenne Niedersachsen Han.
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,54,48
+#EXTINF:0,1407. Radio - div. Deutsche - Antenne Sylt
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,203,103
+#EXTINF:0,1408. Radio - div. Deutsche - CityRadio Saarbrþcken
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,60,51
+#EXTINF:0,1409. Radio - div. Deutsche - Delta Radio
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,218,118
+#EXTINF:0,1410. Radio - div. Deutsche - ERF Plus
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,111,320
+#EXTINF:0,1411. Radio - div. Deutsche - Energy 97.1
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,223,123
+#EXTINF:0,1412. Radio - div. Deutsche - FSK
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,224,124
+#EXTINF:0,1413. Radio - div. Deutsche - HH ZWEI
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,800,801
+#EXTINF:0,1414. Radio - div. Deutsche - Hamburger Lokalradio
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,211,56
+#EXTINF:0,1415. Radio - div. Deutsche - Inselradio Mallorca
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,215,115
+#EXTINF:0,1416. Radio - div. Deutsche - JAM FM
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5114,528
+#EXTINF:0,1417. Radio - div. Deutsche - Klassik Radio
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5115,62
+#EXTINF:0,1418. Radio - div. Deutsche - Ohrfunk
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,58,49
+#EXTINF:0,1419. Radio - div. Deutsche - R.SH
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,216,116
+#EXTINF:0,1420. Radio - div. Deutsche - RHH
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,222,122
+#EXTINF:0,1421. Radio - div. Deutsche - RMNradio
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,226,227
+#EXTINF:0,1422. Radio - div. Deutsche - ROCK ANTENNE Hamburg
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,221,121
+#EXTINF:0,1423. Radio - div. Deutsche - RPR1
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,209,42
+#EXTINF:0,1424. Radio - div. Deutsche - RTL RADIO
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7931,7932
+#EXTINF:0,1425. Radio - div. Deutsche - Radio 21
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,400,401
+#EXTINF:0,1426. Radio - div. Deutsche - Radio BOB!
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,217,117
+#EXTINF:0,1427. Radio - div. Deutsche - Radio Hannover
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,700,701
+#EXTINF:0,1428. Radio - div. Deutsche - Radio Horeb
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7289,1289
+#EXTINF:0,1429. Radio - div. Deutsche - Radio Mi Amigo
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,38,39
+#EXTINF:0,1430. Radio - div. Deutsche - Radio Paloma
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6272,6273
+#EXTINF:0,1431. Radio - div. Deutsche - Radio Regenbogen
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,230,130
+#EXTINF:0,1432. Radio - div. Deutsche - Radio Salþ
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,57,127
+#EXTINF:0,1433. Radio - div. Deutsche - Radio Teddy
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,85,33
+#EXTINF:0,1434. Radio - div. Deutsche - Rock Antenne
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,103,304
+#EXTINF:0,1435. Radio - div. Deutsche - SCHLAGERPARADIES
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,101
+#EXTINF:0,1436. Radio - div. Deutsche - TIDE.radio
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,70,71
+#EXTINF:0,1437. Radio - div. Deutsche - UnserDing 
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,219,119
+#EXTINF:0,1438. Radio - div. Deutsche - bigFM Saarland
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,220,120
+#EXTINF:0,1439. Radio - div. Deutsche - ffn
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6256,6257
+#EXTINF:0,1440. Radio - div. Deutsche - ffn (Hannover)
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,300,301
+#EXTINF:0,1441. Radio - div. Deutsche - radio SAW
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,600,601
+#EXTINF:0,1442. Radio - div. Deutsche - sunshine live
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,55,336
+#EXTINF:0,1501. Radio - div. Sprachen - Public Radio of Armenia
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,267,1502
+#EXTINF:0,1502. Radio - div. Sprachen - RTL Radio Letzebuerg
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5246,86
+#EXTINF:0,1601. Radio - englisch - BBCW SERVICE
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1300,1951
+#EXTINF:0,1602. Radio - englisch - BFBS Radio
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6825,425
+#EXTINF:0,1603. Radio - englisch - Radio Caroline
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,275,787
+#EXTINF:0,1701. Radio - franzĳsisch - FRANCE CULTURE
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1296,1906
+#EXTINF:0,1702. Radio - franzĳsisch - FRANCE INTER
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1297,1905
+#EXTINF:0,1703. Radio - franzĳsisch - FRANCE MUSIQUE
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1298,1901
+#EXTINF:0,1704. Radio - franzĳsisch - RTL2 France
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1304,1962
+#EXTINF:0,1705. Radio - franzĳsisch - Radio Melodie France
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,61,65
+#EXTINF:0,1706. Radio - franzĳsisch - Radio Studio 1
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,207,107
+#EXTINF:0,1707. Radio - franzĳsisch - VIRGIN RADIO
+rtsp://192.168.1.51:554/?freq=666&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1303,1961
+#EXTINF:0,1801. Radio - tþrkisch - Radyo D
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1374,273
+#EXTINF:0,1901. SKY - CNBC HD
+rtsp://192.168.1.51:554/?freq=378&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,103,2047,2051
+#EXTINF:0,1902. SKY - Sky Sport News
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,37,767,769
+#EXTINF:0,1903. SKY - Sky ƆSportƇ ƆNewsƇ ƆHDƇ
+rtsp://192.168.1.51:554/?freq=730&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,99,1023,1027
+#EXTINF:0,2001. UHD - QVC UHD
+rtsp://192.168.1.51:554/?freq=338&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,433,255,256,57
+#EXTINF:0,2002. UHD - QVC ZWEI UHD
+rtsp://192.168.1.51:554/?freq=434&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4009,2815,2816,42
+#EXTINF:0,2003. UHD - Stingray Hits 4K
+rtsp://192.168.1.51:554/?freq=810&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,561,562,560
+#EXTINF:0,2101. ZDFvision - 3sat
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,200,210,220,221,225,222,231,230
+#EXTINF:0,2102. ZDFvision - 3sat HD
+rtsp://192.168.1.51:554/?freq=610&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6500,6510,6520,6521,6522,6523,6531,6530
+#EXTINF:0,2103. ZDFvision - KiKA
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,300,310,320,321,325,331,330
+#EXTINF:0,2104. ZDFvision - KiKA HD
+rtsp://192.168.1.51:554/?freq=610&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6600,6610,6620,6621,6622,6631,6630
+#EXTINF:0,2105. ZDFvision - ZDF
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,110,120,121,122,125,131,130
+#EXTINF:0,2106. ZDFvision - ZDF HD
+rtsp://192.168.1.51:554/?freq=658&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6131,6130
+#EXTINF:0,2107. ZDFvision - ZDFinfo
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,600,610,620,621,622,625,631,630
+#EXTINF:0,2108. ZDFvision - ZDFinfo HD
+rtsp://192.168.1.51:554/?freq=610&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6700,6710,6720,6721,6722,6723,6731,6730
+#EXTINF:0,2109. ZDFvision - zdf_neo
+rtsp://192.168.1.51:554/?freq=394&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,650,660,670,671,675,672,681,680
+#EXTINF:0,2110. ZDFvision - zdf_neo HD
+rtsp://192.168.1.51:554/?freq=658&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6300,6310,6320,6321,6322,6323,6331,6330
+#EXTINF:0,2201. arabisch - Al Jazeera arabisch
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7825,270,271
+#EXTINF:0,2202. arabisch - RT Arabic HD
+rtsp://192.168.1.51:554/?freq=794&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4209,6181,6182,6183
+#EXTINF:0,2203. arabisch - Tunisie Nationale
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4717,112,113
+#EXTINF:0,2301. bosnisch - Al Jazeera Balkans HD
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5151,1649,1651
+#EXTINF:0,2302. bosnisch - OTV Valentino
+rtsp://192.168.1.51:554/?freq=714&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,563,2835,2611
+#EXTINF:0,2401. chinesisch - CCTV-4
+rtsp://192.168.1.51:554/?freq=682&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2911,224,3911,223
+#EXTINF:0,2402. chinesisch - NTD TV
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,261,1401,1402
+#EXTINF:0,2403. chinesisch - PCNE Chinese
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,51,2318,2319,2320,4299
+#EXTINF:0,2501. div. Deutsche - 1-2-3.tv
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5109,2815,2816,47
+#EXTINF:0,2502. div. Deutsche - ANIXE+
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5110,3311,3312
+#EXTINF:0,2503. div. Deutsche - AstroTV
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,102,2559,2560
+#EXTINF:0,2504. div. Deutsche - Bibel TV
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,35,33,34,36
+#EXTINF:0,2505. div. Deutsche - Channel21
+rtsp://192.168.1.51:554/?freq=650&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,116,1023,1024,35
+#EXTINF:0,2506. div. Deutsche - Comedy Central
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,829,4061,4062,4064
+#EXTINF:0,2507. div. Deutsche - DMAX
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,110,3327,3328,44
+#EXTINF:0,2508. div. Deutsche - Deluxe Music
+rtsp://192.168.1.51:554/?freq=794&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,100,3327,3328
+#EXTINF:0,2509. div. Deutsche - Deutsches Musik Fernsehen
+rtsp://192.168.1.51:554/?freq=794&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6176,6177,6178,6180
+#EXTINF:0,2510. div. Deutsche - Die Neue Zeit TV
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,110,3583,3584
+#EXTINF:0,2511. div. Deutsche - Disney Channel
+rtsp://192.168.1.51:554/?freq=714&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5111,2047,2048,2051,53
+#EXTINF:0,2512. div. Deutsche - EWTN katholisches TV
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5112,1023,1024
+#EXTINF:0,2513. div. Deutsche - Euronews deutsch
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1950,2440,2445
+#EXTINF:0,2514. div. Deutsche - Eurosport 1 Deutschland
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,281,101,103,102
+#EXTINF:0,2515. div. Deutsche - HGTV
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6009,1023,1024
+#EXTINF:0,2516. div. Deutsche - HSE24
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,50,1279,1280,37
+#EXTINF:0,2517. div. Deutsche - HSE24 Extra
+rtsp://192.168.1.51:554/?freq=362&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6634,512,660,576
+#EXTINF:0,2518. div. Deutsche - HSE24 Trend
+rtsp://192.168.1.51:554/?freq=338&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3448,3071,3072,37
+#EXTINF:0,2519. div. Deutsche - Hamburg 1
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,53,2689,50,51
+#EXTINF:0,2520. div. Deutsche - Handystar TV
+rtsp://192.168.1.51:554/?freq=754&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5113,3071,3072
+#EXTINF:0,2521. div. Deutsche - Juwelo TV
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6208,6209,6210
+#EXTINF:0,2522. div. Deutsche - K-TV
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6160,6161,6162
+#EXTINF:0,2523. div. Deutsche - MediaShop- Meine Einkaufswelt
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,117,1279,1280
+#EXTINF:0,2524. div. Deutsche - N24 DOKU
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5116,511,512,45
+#EXTINF:0,2525. div. Deutsche - NICK/CC+
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,830,4101,4103,4105,4106
+#EXTINF:0,2526. div. Deutsche - ORF 2 Europe
+rtsp://192.168.1.51:554/?freq=129&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,32,33,34,35
+#EXTINF:0,2527. div. Deutsche - QVC Deutschland
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1031,165,166,167
+#EXTINF:0,2528. div. Deutsche - QVC Style
+rtsp://192.168.1.51:554/?freq=442&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5117,1791,1792,46
+#EXTINF:0,2529. div. Deutsche - QVC2
+rtsp://192.168.1.51:554/?freq=442&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1335,168,144,146
+#EXTINF:0,2530. div. Deutsche - RiC
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,64,49,52
+#EXTINF:0,2531. div. Deutsche - SPORT1
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,90,63,64,39
+#EXTINF:0,2532. div. Deutsche - ServusTV Deutschland
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1211,1110,1111,1112,1115
+#EXTINF:0,2533. div. Deutsche - Sylt 1
+rtsp://192.168.1.51:554/?freq=682&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,700,701,702,703
+#EXTINF:0,2534. div. Deutsche - TELE 5
+rtsp://192.168.1.51:554/?freq=618&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,48,1535,1536,38
+#EXTINF:0,2535. div. Deutsche - TIDE.tv
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,8020,8000,8001,8040
+#EXTINF:0,2536. div. Deutsche - Volksmusik TV
+rtsp://192.168.1.51:554/?freq=121&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,52,65,66
+#EXTINF:0,2537. div. Deutsche - Welt der Wunder
+rtsp://192.168.1.51:554/?freq=434&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2251,1030,1031
+#EXTINF:0,2538. div. Deutsche - gotv
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6625,3160,3161
+#EXTINF:0,2539. div. Deutsche - h1 Fernsehen aus Hannover
+rtsp://192.168.1.51:554/?freq=770&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,32,101,102,103
+#EXTINF:0,2540. div. Deutsche - health.tv
+rtsp://192.168.1.51:554/?freq=434&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6144,6145,6146,6148
+#EXTINF:0,2541. div. Deutsche - nice
+rtsp://192.168.1.51:554/?freq=754&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6240,6241,6242
+#EXTINF:0,2542. div. Deutsche - noa4 Hamburg
+rtsp://192.168.1.51:554/?freq=682&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,274,530,786,51
+#EXTINF:0,2543. div. Deutsche - noa4 Norderstedt
+rtsp://192.168.1.51:554/?freq=682&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,49,52,50,1044
+#EXTINF:0,2544. div. Deutsche - pearl.tv Shop
+rtsp://192.168.1.51:554/?freq=434&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,765,2047,2048
+#EXTINF:0,2545. div. Deutsche - rhein main tv
+rtsp://192.168.1.51:554/?freq=770&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6192,6195,6193
+#EXTINF:0,2601. div. Sprachen - ATN Bangla UK
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6725,2305,2306
+#EXTINF:0,2602. div. Sprachen - Arirang TV
+rtsp://192.168.1.51:554/?freq=682&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,205,225,245,1247
+#EXTINF:0,2603. div. Sprachen - Armenia 1 TV
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7109,1401,1402
+#EXTINF:0,2604. div. Sprachen - BVN TV
+rtsp://192.168.1.51:554/?freq=714&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,5701,525,122,40
+#EXTINF:0,2605. div. Sprachen - Duna HD (Europa)
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,525,1103,1203,1501
+#EXTINF:0,2606. div. Sprachen - Duna World HD
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,105,1105,1205,1501
+#EXTINF:0,2607. div. Sprachen - FEN TV
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2634,640,641
+#EXTINF:0,2608. div. Sprachen - Folklor TV
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2635,632,633
+#EXTINF:0,2609. div. Sprachen - PRO TV International
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4049,2031,2032
+#EXTINF:0,2610. div. Sprachen - Suryoyo Sat
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4110,2447,2448
+#EXTINF:0,2611. div. Sprachen - TVR International 
+rtsp://192.168.1.51:554/?freq=794&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,584,2967,3967,5967
+#EXTINF:0,2612. div. Sprachen - Visjon Norge
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4010,4011,4012
+#EXTINF:0,2613. div. Sprachen - dk4
+rtsp://192.168.1.51:554/?freq=129&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,397,1296,3292,6334
+#EXTINF:0,2701. englisch - Al Jazeera English
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3252,3505,3625
+#EXTINF:0,2702. englisch - BBC World News
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1029,163,92
+#EXTINF:0,2703. englisch - Bloomberg Europe TV
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1091,1360,1320
+#EXTINF:0,2704. englisch - CGTN
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2437,614,634
+#EXTINF:0,2705. englisch - CNBC Europe
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,1730,2362,2363
+#EXTINF:0,2706. englisch - CNN Int.
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3251,165,50
+#EXTINF:0,2707. englisch - Euronews englisch
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3633,2310,2311
+#EXTINF:0,2708. englisch - France 24 (in English)
+rtsp://192.168.1.51:554/?freq=634&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3520,606,626
+#EXTINF:0,2709. englisch - GOD TV
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4060,4061,4062
+#EXTINF:0,2710. englisch - Russia Today
+rtsp://192.168.1.51:554/?freq=794&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4963,2356,2357
+#EXTINF:0,2711. englisch - Sky News Intl
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7290,1290,2290,1750
+#EXTINF:0,2712. englisch - TVC News
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,3334,2339,2340
+#EXTINF:0,2713. englisch - revelation
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,274,2313,2314,5199
+#EXTINF:0,2801. franzĳsisch - France 2 HD
+rtsp://192.168.1.51:554/?freq=121&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6144,6145,6150
+#EXTINF:0,2802. franzĳsisch - France 24 (en Français)
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,664,605,625
+#EXTINF:0,2803. franzĳsisch - France 3 HD
+rtsp://192.168.1.51:554/?freq=121&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6160,6161,6162,6163,6164,6166
+#EXTINF:0,2804. franzĳsisch - France 5 HD
+rtsp://192.168.1.51:554/?freq=121&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,725,1491,1496
+#EXTINF:0,2805. franzĳsisch - TV5MONDE EUROPE HD
+rtsp://192.168.1.51:554/?freq=714&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,667,615,635,942,835
+#EXTINF:0,2901. hindi - IBC Tamil
+rtsp://192.168.1.51:554/?freq=698&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,7801,211,221
+#EXTINF:0,3001. italienisch - Camera Deputati
+rtsp://192.168.1.51:554/?freq=682&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,333,519,659
+#EXTINF:0,3101. portugiesisch - Record TV
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6251,1000,33
+#EXTINF:0,3201. russisch - Kazakh TV HD
+rtsp://192.168.1.51:554/?freq=626&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,410,411,412,413,414,415,416
+#EXTINF:0,3301. serbisch - DM-SAT
+rtsp://192.168.1.51:554/?freq=794&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,257,512,768
+#EXTINF:0,3401. spanisch - Parlamento
+rtsp://192.168.1.51:554/?freq=706&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,6717,4129,4130
+#EXTINF:0,3402. spanisch - TV Chile
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4000,4001,4002
+#EXTINF:0,3501. tþrkisch - HALK TV HD
+rtsp://192.168.1.51:554/?freq=770&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2141,5835,5935
+#EXTINF:0,3502. tþrkisch - Kanal Avrupa
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2473,6624,6724
+#EXTINF:0,3503. tþrkisch - MC EU
+rtsp://192.168.1.51:554/?freq=674&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,4150,410,420
+#EXTINF:0,3504. tþrkisch - TRT Tþrk
+rtsp://192.168.1.51:554/?freq=690&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,457,1502,1602,1120
+#EXTINF:0,3505. tþrkisch - TV 5 turk.
+rtsp://192.168.1.51:554/?freq=786&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,2481,6633,6733
+#EXTINF:0,3506. tþrkisch - YOL TV
+rtsp://192.168.1.51:554/?freq=714&msys=dvbc&sr=6900&mtype=256qam&pids=0,16,17,18,20,276,532,788,1044
